@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+body{
+    background: rgb(210, 217, 242);
+}
+#first{
+    text-align: center;
+background-color: #171533;
+margin-top: 3px;
+height: 100px;
+}
+h1{
+    margin-bottom: 0;
+    color: #e2e2f0;
+}
+h4{
+    margin-top: 0;
+    color: #d9c4c8;
+    margin-bottom: 30px;
+    
+}
+#second{
+    text-align: center;
+}
+#second img{
+    width: 45%;
+}
+#third{
+    height: 22rem;
+}
+#div1{
+    display: inline-block;
+position: relative;
+width: 45%;
+bottom: 4rem;
+left: 13rem;
+text-align: center;
+}
+#div2{
+    display: inline-block;
+position: relative;
+left: 20rem;
+top: 16px;
+}
+#imgtop{
+    border: 4px solid black;
+}
+#img1{
+    width: 12rem;
+    border: 4px solid black;
+}
+#img2{
+    border: 4px solid black;
+}
+#item1{
+    display: inline-block;
+width: 50%;
+text-align: center;
+position: relative;
+top: 1rem;
+}
+#item2{
+    display: inline-block;
+width: 45%;
+text-align: center;
+position: relative;
+top: 1rem;
+width: 27rem;
+left: 8rem;
+height: 16rem;
+}
